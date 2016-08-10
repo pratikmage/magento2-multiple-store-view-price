@@ -1,0 +1,1 @@
+# magento2-multiple-store-view-price
